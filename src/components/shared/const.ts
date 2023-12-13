@@ -31,22 +31,22 @@ export const burgers = [
   },
   {
     id: 2,
-    name: 'Beef Burger',
+    name: 'bacon toast',
     img: burger2,
   },
   {
     id: 3,
-    name: 'Beef Burger',
+    name: 'hamburger',
     img: burger3,
   },
   {
     id: 4,
-    name: 'Beef Burger',
+    name: 'cheese',
     img: burger4,
   },
   {
     id: 5,
-    name: 'Beef Burger',
+    name: 'double bacon',
     img: burger5,
   },
 ];

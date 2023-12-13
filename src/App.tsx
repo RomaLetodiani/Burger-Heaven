@@ -3,7 +3,7 @@ import Hero from './components/Hero';
 
 const App = () => {
   return (
-    <div>
+    <div className="bg-slate-900 pb-5 min-h-screen w-full min-w-[320px]">
       <Header />
       <Hero />
     </div>

@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/burger-haven',
+  base: '/Burger-Heaven',
   plugins: [react()],
   resolve: {
     alias: [
